@@ -12,5 +12,6 @@ Gestion des plateformes sous Open edX Tutor
 <a href="https://github.com/WeUp-Tutor/weup-plugins">🧩 Plugins</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/WeUp-Tutor/weup-tutor-indigo">🎨 Thème</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/WeUp-Tutor/weup-tutor-edx-platform">⚙️ Backend</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/WeUp-Tutor/tutor-scripts">📃 Scripts</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 </div>
